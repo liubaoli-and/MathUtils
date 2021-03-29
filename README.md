@@ -9,6 +9,7 @@ The MathUtils program is a math function packaging tool class for Java programs.
 2.	Output specifications
 
 The output parameter is the greatest common divisor m of p and q, and the type is int. 
+
 3.	Description of MRs
 
 ![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20210329171817.png)
