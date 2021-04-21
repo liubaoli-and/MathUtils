@@ -12,4 +12,4 @@ The MathUtils program is a math function packaging tool class for Java programs.
 
 3.	Description of MRs
 
-    ![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20210329171817.png)
+   ![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20210421204007.png)
